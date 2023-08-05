@@ -14,10 +14,10 @@ Unity 21.3.12f1 (LTS)
 
 The helicopter is controlled using simple and kid-friendly controls:
 
-**W / Up Arrow:** Move forward.\
-**S / Down Arrow:** Move backward.\
-**A / Left Arrow:** Tilt left.\
-**D / Right Arrow:** Tilt right.\
+**W / Up Arrow:** Move/Tilt forward.\
+**S / Down Arrow:** Move/Tilt backward.\
+**A / Left Arrow:** Rotate/Tilt left.\
+**D / Right Arrow:** Rotate/Tilt right.\
 **E:** Increase altitude (fly up)\
 **Q:** Decrease altitude (fly down).
 

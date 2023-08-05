@@ -3,7 +3,7 @@
 
 This project provides a fun and easy-to-use helicopter controller suitable for kids' games. (Sound included)
 
-![Project Cover](https://github.com/LUFiAS-69/Helicopter/blob/main/project%20Cover.png?raw=true/text=Project+Cover)
+![Project Cover](https://github.com/LUFiAS-69/Helicopter/blob/main/Cover.png?raw=true/text=Project+Cover)
 
 
 

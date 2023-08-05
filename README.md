@@ -1,7 +1,7 @@
 
 # Helicopter Controller - Unity Game Project
 
-This project provides a fun and easy-to-use helicopter controller suitable for kids' games.
+This project provides a fun and easy-to-use helicopter controller suitable for kids' games. (Sound included)
 
 ![Project Cover](https://github.com/LUFiAS-69/Helicopter/blob/main/project%20Cover.png?raw=true/text=Project+Cover)
 
@@ -14,10 +14,10 @@ Unity 21.3.12f1 (LTS)
 
 The helicopter is controlled using simple and kid-friendly controls:
 
-**W / Up Arrow:** Move forward.\
-**S / Down Arrow:** Move backwards.\
-**A / Left Arrow:** Tilt left.\
-**D / Right Arrow:** Tilt right.\
+**W / Up Arrow:** Move/Tilt forward.\
+**S / Down Arrow:** Move/Tilt backward.\
+**A / Left Arrow:** Rotate/Tilt left.\
+**D / Right Arrow:** Rotate/Tilt right.\
 **E:** Increase altitude (fly up)\
 **Q:** Decrease altitude (fly down).
 

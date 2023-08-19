@@ -10,6 +10,13 @@ This project provides a fun and easy-to-use helicopter controller suitable for k
 ## Version
 
 Unity 21.3.12f1 (LTS)
+
+
+## Documentation
+
+I've used two types of controllers for the helicopter. One uses "transform" to make the helicopter move, and the other one uses "rigidbody."
+
+
 ## Controls
 
 The helicopter is controlled using simple and kid-friendly controls:
@@ -20,6 +27,11 @@ The helicopter is controlled using simple and kid-friendly controls:
 **D / Right Arrow:** Rotate/Tilt right.\
 **E:** Increase altitude (fly up)\
 **Q:** Decrease altitude (fly down).
+
+
+## Assets used
+
+[Simple Low Poly Nature Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/simple-low-poly-nature-pack-157552)
 
 
 ## License
